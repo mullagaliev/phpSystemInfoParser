@@ -1,4 +1,4 @@
-<?
+<?php
 require_once('functions/other.php');
 require_once('functions/converter.php');
 require_once('functions/db.php');
